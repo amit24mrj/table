@@ -1,0 +1,25 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+
+}
+body{
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+
+}
+table{
+    border-collapse: collapse;
+    width: 500px;
+}
+td{
+    border: 0px solid black;
+    padding: 4px;
+    text-align: center;
+    box-shadow: 5px 5px 15px rgb(19, 3, 3);
+
+}
